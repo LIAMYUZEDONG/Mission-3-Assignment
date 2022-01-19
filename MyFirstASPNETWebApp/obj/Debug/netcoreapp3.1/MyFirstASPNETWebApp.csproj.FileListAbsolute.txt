@@ -1,0 +1,178 @@
+/Users/liamdong/Projects/MyFirstASPNETWebApp/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/liamdong/Projects/MyFirstASPNETWebApp/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/liamdong/Projects/MyFirstASPNETWebApp/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.deps.json
+/Users/liamdong/Projects/MyFirstASPNETWebApp/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.runtimeconfig.json
+/Users/liamdong/Projects/MyFirstASPNETWebApp/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.runtimeconfig.dev.json
+/Users/liamdong/Projects/MyFirstASPNETWebApp/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.dll
+/Users/liamdong/Projects/MyFirstASPNETWebApp/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.pdb
+/Users/liamdong/Projects/MyFirstASPNETWebApp/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.csproj.AssemblyReference.cache
+/Users/liamdong/Projects/MyFirstASPNETWebApp/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liamdong/Projects/MyFirstASPNETWebApp/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.AssemblyInfoInputs.cache
+/Users/liamdong/Projects/MyFirstASPNETWebApp/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.AssemblyInfo.cs
+/Users/liamdong/Projects/MyFirstASPNETWebApp/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.csproj.CoreCompileInputs.cache
+/Users/liamdong/Projects/MyFirstASPNETWebApp/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/liamdong/Projects/MyFirstASPNETWebApp/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/staticwebassets/MyFirstASPNETWebApp.StaticWebAssets.Manifest.cache
+/Users/liamdong/Projects/MyFirstASPNETWebApp/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorTargetAssemblyInfo.cache
+/Users/liamdong/Projects/MyFirstASPNETWebApp/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.dll
+/Users/liamdong/Projects/MyFirstASPNETWebApp/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.pdb
+/Users/liamdong/Projects/MyFirstASPNETWebApp/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.genruntimeconfig.cache
+/Users/liamdong/Documents/GitHub/mission2/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/liamdong/Documents/GitHub/mission2/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/liamdong/Documents/GitHub/mission2/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.deps.json
+/Users/liamdong/Documents/GitHub/mission2/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.runtimeconfig.json
+/Users/liamdong/Documents/GitHub/mission2/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.runtimeconfig.dev.json
+/Users/liamdong/Documents/GitHub/mission2/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.dll
+/Users/liamdong/Documents/GitHub/mission2/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.pdb
+/Users/liamdong/Documents/GitHub/mission2/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.csproj.AssemblyReference.cache
+/Users/liamdong/Documents/GitHub/mission2/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liamdong/Documents/GitHub/mission2/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.AssemblyInfoInputs.cache
+/Users/liamdong/Documents/GitHub/mission2/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.AssemblyInfo.cs
+/Users/liamdong/Documents/GitHub/mission2/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.csproj.CoreCompileInputs.cache
+/Users/liamdong/Documents/GitHub/mission2/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/liamdong/Documents/GitHub/mission2/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/staticwebassets/MyFirstASPNETWebApp.StaticWebAssets.Manifest.cache
+/Users/liamdong/Documents/GitHub/mission2/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorTargetAssemblyInfo.cache
+/Users/liamdong/Documents/GitHub/mission2/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.dll
+/Users/liamdong/Documents/GitHub/mission2/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.pdb
+/Users/liamdong/Documents/GitHub/mission2/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.genruntimeconfig.cache
+/Users/liamdong/Desktop/mission2/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/liamdong/Desktop/mission2/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/liamdong/Desktop/mission2/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.deps.json
+/Users/liamdong/Desktop/mission2/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.runtimeconfig.json
+/Users/liamdong/Desktop/mission2/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.runtimeconfig.dev.json
+/Users/liamdong/Desktop/mission2/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.dll
+/Users/liamdong/Desktop/mission2/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.pdb
+/Users/liamdong/Desktop/mission2/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.csproj.AssemblyReference.cache
+/Users/liamdong/Desktop/mission2/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liamdong/Desktop/mission2/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.AssemblyInfoInputs.cache
+/Users/liamdong/Desktop/mission2/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.AssemblyInfo.cs
+/Users/liamdong/Desktop/mission2/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.csproj.CoreCompileInputs.cache
+/Users/liamdong/Desktop/mission2/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/liamdong/Desktop/mission2/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/staticwebassets/MyFirstASPNETWebApp.StaticWebAssets.Manifest.cache
+/Users/liamdong/Desktop/mission2/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorTargetAssemblyInfo.cache
+/Users/liamdong/Desktop/mission2/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.dll
+/Users/liamdong/Desktop/mission2/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.pdb
+/Users/liamdong/Desktop/mission2/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.genruntimeconfig.cache
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.deps.json
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.runtimeconfig.json
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.runtimeconfig.dev.json
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.dll
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.pdb
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.Views.dll
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.Views.pdb
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.csproj.AssemblyReference.cache
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.AssemblyInfoInputs.cache
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.AssemblyInfo.cs
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.csproj.CoreCompileInputs.cache
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorAssemblyInfo.cache
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorAssemblyInfo.cs
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/staticwebassets/MyFirstASPNETWebApp.StaticWebAssets.Manifest.cache
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.TagHelpers.input.cache
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.TagHelpers.output.cache
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorCoreGenerate.cache
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/Razor/Views/Blah/Index.cshtml.g.cs
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorTargetAssemblyInfo.cache
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorTargetAssemblyInfo.cs
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.Views.pdb
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.dll
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.pdb
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.genruntimeconfig.cache
+/Users/liamdong/Desktop/mission2 copy/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.csproj.CopyComplete
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.deps.json
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.runtimeconfig.json
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.runtimeconfig.dev.json
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.dll
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.pdb
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.Views.dll
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.Views.pdb
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.csproj.AssemblyReference.cache
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.AssemblyInfoInputs.cache
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.AssemblyInfo.cs
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.csproj.CoreCompileInputs.cache
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorAssemblyInfo.cache
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorAssemblyInfo.cs
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/staticwebassets/MyFirstASPNETWebApp.StaticWebAssets.Manifest.cache
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.TagHelpers.input.cache
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.TagHelpers.output.cache
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorCoreGenerate.cache
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/Razor/Views/Blah/Index.cshtml.g.cs
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorTargetAssemblyInfo.cache
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorTargetAssemblyInfo.cs
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.Views.pdb
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.dll
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.pdb
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.genruntimeconfig.cache
+/Users/liamdong/Desktop/M3 practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.csproj.CopyComplete
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.deps.json
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.runtimeconfig.json
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.runtimeconfig.dev.json
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.dll
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.pdb
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.Views.dll
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.Views.pdb
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.csproj.AssemblyReference.cache
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.AssemblyInfoInputs.cache
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.AssemblyInfo.cs
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.csproj.CoreCompileInputs.cache
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorAssemblyInfo.cache
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorAssemblyInfo.cs
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/staticwebassets/MyFirstASPNETWebApp.StaticWebAssets.Manifest.cache
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.TagHelpers.input.cache
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.TagHelpers.output.cache
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorCoreGenerate.cache
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/Razor/Views/Blah/Index.cshtml.g.cs
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorTargetAssemblyInfo.cache
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorTargetAssemblyInfo.cs
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.Views.pdb
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.dll
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.pdb
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.genruntimeconfig.cache
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.csproj.CopyComplete
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/liamdong/Desktop/IS 413/Mission3 Practice/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/Razor/Views/Blah/Calculator.cshtml.g.cs
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.deps.json
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.runtimeconfig.json
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.runtimeconfig.dev.json
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.dll
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.pdb
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.Views.dll
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/bin/Debug/netcoreapp3.1/MyFirstASPNETWebApp.Views.pdb
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.csproj.AssemblyReference.cache
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.AssemblyInfoInputs.cache
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.AssemblyInfo.cs
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.csproj.CoreCompileInputs.cache
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorAssemblyInfo.cache
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorAssemblyInfo.cs
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/staticwebassets/MyFirstASPNETWebApp.StaticWebAssets.Manifest.cache
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.TagHelpers.input.cache
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.TagHelpers.output.cache
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorCoreGenerate.cache
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/Razor/Views/Blah/Calculator.cshtml.g.cs
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/Razor/Views/Blah/Index.cshtml.g.cs
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorTargetAssemblyInfo.cache
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.RazorTargetAssemblyInfo.cs
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.Views.pdb
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.dll
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.pdb
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.genruntimeconfig.cache
+/Users/liamdong/Desktop/IS 413/Mission3 Assignment/MyFirstASPNETWebApp/obj/Debug/netcoreapp3.1/MyFirstASPNETWebApp.csproj.CopyComplete
