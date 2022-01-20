@@ -13,15 +13,15 @@
     <br />
     <form method="post">
         <label>Assignment Score:</label>
-        <input id="AssignmentScore"  asp-for="Assignment"/><br />    <br />
+        <input id="AssignmentScore"  min="0" max="100" asp-for="Assignment"/><br />    <br />
         <label>Group Project Score:</label>
-        <input id="GroupProjectScore"  asp-for="GroupProject"/><br />    <br />
+        <input id="GroupProjectScore"  min="0" max="100" asp-for="GroupProject"/><br />    <br />
         <label>Quizzes Score:</label>
-        <input id="QuizzesScore"  asp-for="Quizzes"/><br />    <br />
+        <input id="QuizzesScore"  min="0" max="100"  asp-for="Quizzes"/><br />    <br />
         <label>Exams Score:</label>
-        <input id="ExamsScore" asp-for="Exams"/><br />    <br />
+        <input id="ExamsScore" min="0" max="100" asp-for="Exams"/><br />    <br />
         <label>INTEX Score:</label>
-        <input id="INTEXScore"  asp-for="INTEX"/><br />    <br />
+        <input id="INTEXScore"  min="0" max="100" asp-for="INTEX"/><br />    <br />
         <br />
         <br />
         <input type="submit" id="btnSend" class="class" value="Calculate Grade" />
